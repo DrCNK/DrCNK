@@ -5,7 +5,7 @@
 # that you'll want to customize for your site. It's named 'tokens' because
 # that was it's original purpose, but because tokens.yml is .gitexcluded, it's
 # a good place to store your site-specific data that you'd rather not have
-# forked or cloned. Of course, that means you'd want to back it up elsewhere.
+ forked or cloned. Of course, that means you'd want to back it up elsewhere.
 
 # Also, for your post bylines, add author info for yourself in `_data/authors.yml`.
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
@@ -40,7 +40,7 @@ social:
   facebook-official: https://facebook.com/cnk
   google-plus-square: https://plus.google.com/u/0/+cnaveenkh
   email: /contact/
-  #flickr:
+  flickr: http://127.0.0.1:6625
   #instagram:
   #youtube-square:
   #spotify:
