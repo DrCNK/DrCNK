@@ -9,7 +9,6 @@ tags:
   - That
   - The other
 ---
-https://drcnk.shinyapps.io/NYPD_accidents_shiny-master/
 
 #### Results
 
