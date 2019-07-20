@@ -1,6 +1,6 @@
 ---
 priority: 0.7
-title: Project Y
+title: Project (1)
 excerpt: A better example of a and b, with c
 categories: works
 background-image: works-sample.png
@@ -8,6 +8,7 @@ tags:
   - This
   - That
   - The other
+  - Will be updated
 ---
 
 #### Results
@@ -17,4 +18,4 @@ tags:
 
 #### Summary
 
-Project Y involved ....
+Project 1 involved ....
