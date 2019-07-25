@@ -1,5 +1,5 @@
 ---
-title: Distributions
+title: Regression Modelling
 excerpt: Third topic in ML
 categories:
   - topics
