@@ -1,6 +1,6 @@
 ---
 title: Machine Learning
-excerpt: First Topic in my Machine Learning
+excerpt: First Topic in Machine Learning
 permalink: /topics/Machine Learning/
 categories:
   - topics
