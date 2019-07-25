@@ -1,5 +1,5 @@
 ---
-title: My Topic Group
+title: Machine Learning
 excerpt: first topic in my neat grouping
 permalink: /topics/my topic group/
 categories:
