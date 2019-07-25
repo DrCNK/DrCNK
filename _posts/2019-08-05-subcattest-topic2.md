@@ -4,7 +4,7 @@ excerpt: Second awesome topic in the group
 categories:
   - topics
   - my topic group
-date: 3006-09-22 00:01
+date: 2019-08-05 00:01
 ---
 
 Yada yada and more yada.
