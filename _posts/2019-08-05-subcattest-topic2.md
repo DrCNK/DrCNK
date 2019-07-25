@@ -1,10 +1,24 @@
 ---
-title: Test topic 2
-excerpt: Second awesome topic in the group
+title: Distributions
+excerpt: Second topic in ML
 categories:
   - topics
-  - my topic group
+  - Machine Learning
 date: 2019-08-05 00:01
 ---
+
+
+
+adf
+d
+ad
+d
+s
+d
+s
+ds
+ds
+ds
+ds
 
 Yada yada and more yada.
