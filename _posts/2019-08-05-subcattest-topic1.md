@@ -5,7 +5,8 @@ permalink: /topics/Machine Learning/
 categories:
   - topics
   - Machine Learning
-date: 2019-08-05 00:00
+lastmod: 2018-12-12 20:11:00
+date: 2019-08-05 00:00:00 -0800
 ---
 Random Number Generation
 Here we go.
