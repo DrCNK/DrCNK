@@ -1,5 +1,6 @@
 ---
 title: Distributions
+tags: featured
 excerpt: Second topic in ML
 categories:
   - topics
