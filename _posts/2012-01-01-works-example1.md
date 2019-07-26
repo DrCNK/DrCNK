@@ -1,5 +1,5 @@
 ---
-priority: 0.6
+priority: 0.8
 title: Project NH - 58 Road Safety Analysis
 excerpt: Bayesian Statistical Analysis using Gibbs Sampling
 categories: Research works
