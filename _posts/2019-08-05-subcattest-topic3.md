@@ -1,5 +1,6 @@
 ---
 title: Regression Modelling
+tags: featured
 excerpt: Third topic in ML
 categories:
   - topics
