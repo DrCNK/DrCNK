@@ -15,11 +15,11 @@ title: Dr.C. Naveen Kumar
 description: Flowing creativity &#x2192; Cascading bliss
 owner:
   name: Dr. C. Naveen Kumar # or company name
-  email: contact@drcnk.com
-  url: http://drcnk.com
+  email: doccnk@gmail.com
+  url: http://www.drcnk.com
 first_published: 2017 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://drcnk.com" # the base hostname & protocol for your site
+url: "http://www.drcnk.com" # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
@@ -40,7 +40,7 @@ social:
   github: https://github.com/DrCNK
   facebook-official: https://facebook.com/cnk
   google-plus-square: https://plus.google.com/u/0/+cnaveenkh
-  #email: /contact/
+  email: /contact/doccnk@gmail.com
   #flickr:
   #instagram:
   #youtube-square:
