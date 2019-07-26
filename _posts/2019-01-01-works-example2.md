@@ -1,13 +1,13 @@
 ---
 priority: 0.7
-title: Project (1)
-excerpt: A better example of a and b, with c
+title: OQYANA - The World Islands
+excerpt: Designed water transport, ferri and water taxis fleet using VISSUM
 categories: works
 background-image: works-sample.png
 tags:
-  - This
-  - That
-  - The other
+  - Water Transport
+  - VISSUM
+  - Transportation Planning
   - Will be updated
 ---
 
@@ -18,4 +18,4 @@ tags:
 
 #### Summary
 
-Project 1 involved ....
+OQYANA - The World Islands with Scott Wilson Pvt Ltd, Dubai - H. O.
