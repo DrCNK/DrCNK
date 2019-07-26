@@ -1,5 +1,6 @@
 ---
 title: Machine Learning
+tags: featured
 excerpt: First Topic in Machine Learning
 permalink: /topics/Machine Learning/
 categories:
