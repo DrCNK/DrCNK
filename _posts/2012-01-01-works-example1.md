@@ -1,13 +1,15 @@
 ---
 priority: 0.6
 title: Project NH - 58 Road Safety Analysis
-excerpt: An example of a and b
+excerpt: Bayesian Statistical Analysis using Gibbs Sampling
 categories: Research works
 background-image: works-sample.png
 tags:
-  - This
-  - That
-  - The other
+  - Bayesian Statistics
+  - R Software
+  - WinBUGS, OpenBUGS & JAGS
+  - Matlab
+  - Shiny
 ---
 
 #### Results
