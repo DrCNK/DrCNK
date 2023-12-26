@@ -1,7 +1,7 @@
 ---
-title: Machine Learning
+title: Road Survey Application - Terms and Conditions
 tags: featured
-excerpt: First Topic in Machine Learning
+excerpt: Terms and Conditions
 permalink: /topics/Machine Learning/
 categories:
   - topics
