@@ -1,5 +1,5 @@
 ---
-title: Road Survey Application - Terms and Conditions
+title: Road Survey - Car Dashcam Application
 tags: featured
 excerpt: Terms and Conditions
 permalink: /topics/Machine Learning/
@@ -7,7 +7,7 @@ categories:
   - topics
   - Machine Learning
 lastmod: 2018-12-12 20:11:00
-date: 2019-08-05 00:00
+date: 2023-12-12 00:00
 
 ---
 Road Safety Audit Survey Application - Terms and Conditions:
