@@ -1,7 +1,7 @@
 ---
-title: Regression Modelling
+title: Terms of Use
 tags: featured
-excerpt: Third topic in ML
+excerpt: Terms and Conditions for Users
 categories:
   - topics
   - Terms of Use
