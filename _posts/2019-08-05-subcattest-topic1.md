@@ -1,5 +1,5 @@
 ---
-title: Road Survey - Car Dashcam Application
+title: Our Android Applications
 tags: featured
 excerpt: Terms and Conditions
 permalink: /topics/Machine Learning/
@@ -10,9 +10,15 @@ lastmod: 2018-12-12 20:11:00
 date: 2023-12-12 00:00
 
 ---
-Road Safety Audit Survey Application - Terms and Conditions:
+Our Android App's Terms and Conditions:
 
-Application is designed to assist you in understanding how the app uses the Services which include gps co-ordinates, place information, and internet. 
+Road Safety Audit Survey Application - 
+
+Public Transport Survey Application -
+
+IRC Blackspot Analysis Application -
+
+Application is designed to assist you in understanding how the app uses the Services which include gps co-ordinates, place information, Crash analysis and internet. 
 
 Location information and Accessibility of location information
 When you use a location-enabled Product or Service, to process information about your actual location, like GPS signals sent by a mobile device. Further, we may also use certain technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers.
