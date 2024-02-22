@@ -11,9 +11,9 @@ date: 2019-08-05 00:01
 A. Introduction 
 Dr. C. Naveen Kumar (“the Company”), owns and operates the website https://drcnk.com (“Website”) recognizes the need for appropriate protection and management of any information you share on the Website.
 
-The terms used in the Privacy Policy (“Policy”) have the meaning as defined in the Terms of Use as published on the Website. The present Policy lays down how the company collects, uses, discloses or shares information of users including you. This Policy would apply to anybody who visits the Website. 
+The terms used in the Privacy Policy (“Policy”) have the meaning as defined in the Terms of Use as published on the Website and applications on google playstore. The present Policy lays down how the company collects, uses, discloses or shares information of users including you. This Policy would apply to anybody who visits the Website and uses our applications on google playstore. 
 
-By using or accessing the Website in any manner, you acknowledge that you accept the present Policy and you hereby consent that Website will collect, use, disclose or share your Information in terms of the present Policy and the Terms of Use. This Policy is an electronic record in the form of an electronic contract formed under the Information Technology Act, 2000 and the rules made thereunder.
+By using or accessing the Website in any manner, you acknowledge that you accept the present Policy and you hereby consent that Website will collect, use, disclose or share your Information in terms of the present Policy and the Terms of Use. This Policy is an electronic record in the form of an electronic contract formed under the Information Technology Act, 2000 and the rules made thereunder.  Our applications on google playstore wont collect any user data.
 
 However, in case you do not intend to share some of the information as contained herein below for use by the Website as stated, you are free to opt out or not use the Website and in such a case, are not required to give consent as per the present Privacy Policy.
 
