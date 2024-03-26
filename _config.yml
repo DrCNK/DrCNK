@@ -25,7 +25,7 @@ url: "http://www.drcnk.com" # the base hostname & protocol for your site
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome!  
-  text: I hope you enjoy my research/projects
+  text: I hope you enjoy my Research / Projects / Apps
 # - title for your blog's featured posts
 features-title: Featured topics
 # - displayed at the bottom
@@ -40,7 +40,7 @@ social:
   github: https://github.com/DrCNK
   facebook-official: https://facebook.com/cnk
   google-plus-square: https://plus.google.com/u/0/+cnaveenkh
-  #email: doccnk@gmail.com
+  email: doccnk@gmail.com
   #flickr:
   #instagram:
   #youtube-square:
