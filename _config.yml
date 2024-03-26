@@ -48,32 +48,32 @@ social:
   #stack-overflow:
   #vimeo:
   #reddit:
-  stubleupon:
-  delicious:
-  pied-piper:
-  digg:
-  soundcloud:
-  deviantart:
-  angellist:
-  tumblr-square:
+  stubleupon: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  delicious: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  pied-piper: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  digg: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  soundcloud: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  deviantart: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  angellist: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  tumblr-square: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
   #stackexchange:
-  weibo:
-  trello:
-  foursquare:
-  linux:
-  bitbucket-square:
-  vk:
-  slack:
-  vine:
-  weixin:
-  yelp:
-  skyatlas:
-  leanpub:
-  connectdevelop:
-  ils:
-  forumbee:
-  tripadvisor:
-  amazon:
+  weibo: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  trello: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  foursquare: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  linux: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  bitbucket-square: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  vk: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  slack: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  vine: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  weixin: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  yelp: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  skyatlas: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  leanpub: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  connectdevelop: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  ils: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  forumbee: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  tripadvisor: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
+  amazon: https://play.google.com/store/apps/developer?id=Dr.+C.+Naveen+Kumar
 
 # if you use this repo's `ruby compose.rb` script to initiate new posts, put the
 # command to invoke your editor here. (I didn't spend time dealing with spaces
