@@ -1,5 +1,5 @@
 ---
-id: 6
+key: 1
 permalink: /app-ads.txt/
 options: nolanding, nomenu
 ---
