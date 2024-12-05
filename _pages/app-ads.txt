@@ -1,1 +1,10 @@
+---
+id: 6
+permalink: /app-ads.txt/
+options: nolanding, nomenu
+excerpt: People to thank
+background-image: caustic_light.jpg
+---
+
+
 google.com, pub-8428086915090840, DIRECT, f08c47fec0942fa0
